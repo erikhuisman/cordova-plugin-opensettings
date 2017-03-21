@@ -5,7 +5,7 @@ OpenSettings.settings = function(app, callback) {
 		// Success callback
 		callback,
 		// Failure callback
-		function(err) { console.log('OpenSettins.settings error'); },
+		function(err) { console.log('OpenSettings.settings error'); },
 		// Native Class Name
 		"OpenSettings",
 		// Name of method in native class.
@@ -20,7 +20,7 @@ OpenSettings.bluetooth = function (app, callback) {
 		// Success callback
 		callback,
 		// Failure callback
-		function(err) { console.log('OpenSettins.bluetooth error'); },
+		function(err) { console.log('OpenSettings.bluetooth error'); },
 		// Native Class Name
 		"OpenSettings",
 		// Name of method in native class.
@@ -35,7 +35,7 @@ OpenSettings.bluetoothStatus = function (app, callback) {
 		// Success callback
 		callback,
 		// Failure callback
-		function(err) { console.log('OpenSettins.bluetoothStatus error'); },
+		function(err) { console.log('OpenSettings.bluetoothStatus error'); },
 		// Native Class Name
 		"OpenSettings",
 		// Name of method in native class.
@@ -50,7 +50,7 @@ OpenSettings.bluetoothChange = function (callback) {
 		// Success callback
 		callback,
 		// Failure callback
-		function(err) { console.log('OpenSettins.bluetoothChange error'); },
+		function(err) { console.log('OpenSettings.bluetoothChange error'); },
 		// Native Class Name
 		"OpenSettings",
 		// Name of method in native class.
